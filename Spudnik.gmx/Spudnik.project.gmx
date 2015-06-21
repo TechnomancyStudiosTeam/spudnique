@@ -15,6 +15,7 @@
     <sprite>sprites\spr_ground</sprite>
     <sprite>sprites\spr_spud</sprite>
     <sprite>sprites\spr_player</sprite>
+    <sprite>sprites\spr_loaded</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
