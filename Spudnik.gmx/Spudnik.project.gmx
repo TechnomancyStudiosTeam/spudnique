@@ -4,7 +4,9 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\Click</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_potato_cloud</sprite>
     <sprite>sprites\spr_slime1</sprite>
@@ -14,7 +16,9 @@
     <sprite>sprites\spr_spud</sprite>
     <sprite>sprites\spr_player</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_restart</object>
