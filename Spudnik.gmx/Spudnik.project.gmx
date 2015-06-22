@@ -26,6 +26,7 @@
     <object>objects\obj_idleplayer</object>
     <object>objects\obj_lander</object>
     <object>objects\obj_player</object>
+    <object>objects\obj_enemytimer</object>
     <object>objects\obj_potato_cloud</object>
     <object>objects\obj_spud</object>
     <object>objects\obj_ground</object>
