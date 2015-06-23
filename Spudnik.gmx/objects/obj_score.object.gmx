@@ -26,6 +26,7 @@
           <argument>
             <kind>1</kind>
             <string>global.points = 0;
+global.life = 800;
 </string>
           </argument>
         </arguments>
@@ -53,6 +54,7 @@ draw_set_valign(fa_top);
 draw_set_color(c_black);
 draw_set_font(fnt_chips);
 draw_text(64,32,"Chips: " + string(global.points));
+draw_text(64,56,"Life: " + string(global.life));
 </string>
           </argument>
         </arguments>
