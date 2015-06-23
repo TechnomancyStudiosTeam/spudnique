@@ -25,8 +25,12 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>motion_add(image_angle - 180, 3)
+            <string>motion_add(image_angle - 180, 3);
 if(speed &gt; 3) speed = 3;
+
+image_speed = irandom(0.175);
+if(image_speed &lt;0.15) image_speed = 0.15
+image_index = irandom(1);
 </string>
           </argument>
         </arguments>
